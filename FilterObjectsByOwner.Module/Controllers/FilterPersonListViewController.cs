@@ -48,7 +48,7 @@ namespace FilterObjectsByOwner.Module.Controllers
             View.CollectionSource.Criteria["Owners1"] = FullCriteria;
 
            
-            //CriteriaOperator.FromLambda<FileSystemObject>(r=>r.ApplicationRoles.Contains();
+            
         }
     }
 }
